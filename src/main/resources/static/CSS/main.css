@@ -1,0 +1,9 @@
+#studentwrapper{
+    text-align: center;
+    padding-left: 20px;
+    padding-right: 20px;
+
+}
+tr:nth-child(odd){
+    background-color: chocolate !important;
+}
